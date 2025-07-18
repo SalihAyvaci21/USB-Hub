@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6d9574af-18a2-4e68-aceb-f8599563ee21")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 38.1 120.65)
+		(size 26.67 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0991a389-8fab-4107-b15b-c06d41762493")
+		(property "Sheetname" "esdprotection"
+			(at 38.1 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitleasdgd.kicad_sch"
+			(at 38.1 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Usb 3.0"
+				(path "/6d9574af-18a2-4e68-aceb-f8599563ee21"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 165.1)
+		(size 20.32 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "44111718-5cf8-487b-a1ba-1bb22e25f1da")
+		(property "Sheetname" "ST-Link V2"
+			(at 44.45 164.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ST-Link V2.kicad_sch"
+			(at 44.45 187.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Usb 3.0"
+				(path "/6d9574af-18a2-4e68-aceb-f8599563ee21"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 167.64)
+		(size 15.24 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0bf05aa-9b14-4ce4-a8b0-ac7ba2a0296f")
+		(property "Sheetname" "FTDI"
+			(at 77.47 166.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FTDI.kicad_sch"
+			(at 77.47 180.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Usb 3.0"
+				(path "/6d9574af-18a2-4e68-aceb-f8599563ee21"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 146.05 38.1)
+		(size 26.67 22.86)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8cf7adf-d2c2-4e06-8866-76f0f08db8af")
+		(property "Sheetname" "TUSB8044"
+			(at 146.05 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 146.05 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Usb 3.0"
+				(path "/6d9574af-18a2-4e68-aceb-f8599563ee21"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 163.83)
+		(size 21.59 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e047f2ab-0dae-4d16-984f-d9adc8bc7a83")
+		(property "Sheetname" "PD Switch Controller"
+			(at 113.03 163.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PD Switch Controller.kicad_sch"
+			(at 113.03 184.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Usb 3.0"
+				(path "/6d9574af-18a2-4e68-aceb-f8599563ee21"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
